@@ -1,0 +1,38 @@
+[I 15:27:37.548 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-07-04 15:27:38.906 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.906 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-04 15:27:38.907 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-04 15:27:38.907 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-04 15:27:38.907 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-04 15:27:38.915 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-04 15:27:38.915 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:27:38.921 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 15:27:38.923 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:27:38.924 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:27:38.924 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:27:38.924 NotebookApp] http://jupyter-serifatadebola-2dpyscript-2dinqq4nhb:8888/user/serifatadebola-pyscript-inqq4nhb/?token=...
+[I 15:27:38.924 NotebookApp]  or http://127.0.0.1:8888/user/serifatadebola-pyscript-inqq4nhb/?token=...
+[I 15:27:38.924 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:27:38.928 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:27:38.930 NotebookApp] 302 GET /user/serifatadebola-pyscript-inqq4nhb/ (10.0.5.98) 1.480000ms
+[I 15:27:39.380 NotebookApp] 302 GET /user/serifatadebola-pyscript-inqq4nhb/?token=UG3kGYwsSj2rFTew9hm-yQ (74.135.2.152) 0.630000ms
+[I 15:27:48.784 NotebookApp] Creating new notebook in 
+[I 15:27:48.799 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 15:27:50.030 NotebookApp] Kernel started: e5b5fcf7-f092-4f08-9138-93f9cd786fd4, name: python3
+[I 15:27:50.031 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:27:50.031 NotebookApp] Culling kernels even with connected clients
+[I 15:28:55.622 NotebookApp] Saving file at /PyScript.ipynb
+[I 15:28:56.790 NotebookApp] Saving file at /PyScript.ipynb
+[I 15:28:59.049 NotebookApp] Starting buffering for e5b5fcf7-f092-4f08-9138-93f9cd786fd4:e78b0b7191c64e5da5e341caa983139c
+[I 15:29:03.251 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 15:31:43.894 NotebookApp] Saving file at /PyScript.py
+[I 15:31:44.696 NotebookApp] Saving file at /PyScript.py
